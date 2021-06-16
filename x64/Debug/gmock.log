@@ -1,0 +1,8 @@
+﻿  gmock-cardinalities.cc
+  gmock-internal-utils.cc
+  gmock-matchers.cc
+  gmock-spec-builders.cc
+  gmock.cc
+  gmock_main.cc
+  Code wird generiert...
+  gmock.vcxproj -> C:\Users\Oliver\source\repos\gmock\x64\Debug\gmock.lib

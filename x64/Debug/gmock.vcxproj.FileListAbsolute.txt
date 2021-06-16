@@ -1,0 +1,2 @@
+C:\Users\Oliver\source\repos\gmock\x64\Debug\gmock.lib
+C:\Users\Oliver\source\repos\gmock\x64\Debug\gmock.pdb
